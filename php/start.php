@@ -22,7 +22,7 @@ include_once('php/ftp.php');
 
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 	
-	<link rel="icon" type="image/png" href="images/favicon.png" />
+	<link rel="icon" type="image/png" href="images/yin-yang.png" />
 
     <style>
     	.navbar-default { background-color:#F778A1; }
