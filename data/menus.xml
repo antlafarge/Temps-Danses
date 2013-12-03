@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- '''Fichier XML des menus''' -->
+<menus>
+	<menuHorizontalHaut>
+		<element type="page" page="presentation">Présentation</element>
+		<element type="page" page="albums">Photos</element>
+		<element type="page" page="videos">Vidéos</element>
+		<element type="page" page="Horaires">Horaires</element>
+		<element type="page" page="tarifs">Tarifs</element>
+		<element type="page" page="Manifestations">Manifestations</element>
+		<element type="lien" lien="http://www.ffdanse.fr/">FFSD</element>
+	</menuHorizontalHaut>
+
+	<menuVerticalGauche>
+	</menuVerticalGauche>
+
+	<menuVerticalDroit>
+	</menuVerticalDroit>
+
+	<menuHorizontalBas>
+	</menuHorizontalBas>
+</menus>
