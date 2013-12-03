@@ -40,51 +40,51 @@
 			<tr>
 				<th>Débutants</th>
 				<td>Mardi<br>20h30 à 21h30</td>
-				<td>-</td>
-				<td>-</td>
+				<td></td>
+				<td></td>
 				<td>Jeudi<br>20h à 21h</td>
 			</tr>
 			<tr>
 				<th>1ère année</th>
-				<td>-</td>
-				<td>Lundi<br>20h à 21h</td>
-				<td>-</td>
+				<td></td>
+				<td></td>
+				<td></td>
 				<td>Jeudi<br>21h à 22h</td>
 			</tr>
 			<tr>
 				<th>2ème année</th>
 				<td>Vendredi<br>20h30 à 21h30</td>
-				<td>-</td>
+				<td></td>
 				<td>Mercredi<br>20h30 à 21h30</td>
-				<td>-</td>
+				<td></td>
 			</tr>
 			<tr>
 				<th>3ème année</th>
-				<td>-</td>
-				<td>Lundi<br>21h à 22h</td>
-				<td>-</td>
-				<td>-</td>
+				<td></td>
+				<td>Lundi<br>20h15 à 21h15</td>
+				<td></td>
+				<td></td>
 			</tr>
 			<tr>
 				<th>Poussins 6-9ans</th>
 				<td>Mercredi<br>17h à 18h</td>
-				<td>-</td>
-				<td>-</td>
+				<td></td>
+				<td></td>
 				<td>Jeudi<br>17h à 18h</td>
 			</tr>
 			<tr>
 				<th>Benjamins / Minimes 10-13ans</th>
 				<td>Mercredi<br>18h à 19h</td>
-				<td>-</td>
-				<td>-</td>
+				<td></td>
+				<td></td>
 				<td>Jeudi<br>18h à 19h</td>
 			</tr>
 			
 			<tr>
 				<th>Cadets / Juniors 14-18ans</th>
 				<td>Mercredi<br>19h à 20h</td>
-				<td>-</td>
-				<td>-</td>
+				<td></td>
+				<td></td>
 				<td>Jeudi<br>19h à 20h</td>
 			</tr>
 		</table>
@@ -104,7 +104,6 @@
 				<th></th>
 				<th>Fressenneville</th>
 				<th>Friville-Escarbotin</th>
-				<th>Arrest</th>
 				<th>Sept-Meules</th>
 			</tr>
 			<tr>
@@ -112,12 +111,10 @@
 				<td></td>
 				<td>19h00 à 20h00<br>22h00 à 23h00</td>
 				<td></td>
-				<td></td>
 			</tr>
 			<tr>
 				<th>Mardi</th>
 				<td>14h00 à 18h00<br>21h30 à 23h30</td>
-				<td></td>
 				<td></td>
 				<td></td>
 			</tr>
@@ -126,12 +123,10 @@
 				<td>19h00 à 20h00<br>22h00 à 23h30</td>
 				<td></td>
 				<td></td>
-				<td></td>
 			</tr>
 			<tr>
 				<th>Jeudi</th>
 				<td>14h00 à 18h00</td>
-				<td></td>
 				<td></td>
 				<td></td>
 			</tr>
@@ -140,11 +135,9 @@
 				<td>18h00 à 20h30<br>21h30 à 23h30</td>
 				<td></td>
 				<td></td>
-				<td></td>
 			</tr>
 			<tr>
 				<th>Samedi</th>
-				<td></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -154,14 +147,13 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td></td>
 			</tr>
 		</table>
   </div>
 </div>
 
 <p class="well">
-	Pour toute information complémentaire, contactez <a href="contact.php">Mme Véronique Lhermitte</a>
+	Pour toute information complémentaire, contactez <a href="contact.php">Véronique Lhermitte</a>
 </p>
 
 <?php include_once('php/end.php'); ?>

@@ -11,7 +11,7 @@
 			Les données que vous fournissez resteront confidentielles et ne seront jamais transmises à des partenaires sans votre accord préalable.
 			<br>
 			<br>
-			Si vous souhaitez modifier une information vous concernant, contactez <a href="contact.php">Mme Véronique Lhermitte</a>
+			Si vous souhaitez modifier une information vous concernant, contactez <a href="contact.php">Véronique Lhermitte</a>
 		</p>
 
 		<div class="panel panel-default">

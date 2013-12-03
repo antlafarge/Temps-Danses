@@ -13,7 +13,7 @@
 			<th>Formules</th>
 			<th>Couple<br>Adulte</th>
 			<th>1 personne<br>Adulte</th>
-			<th>Adolescents Etudiants <span class="badge">-25</span></th>
+			<th>Adolescents Etudiants <span class="badge">-25 ans</span></th>
 		</tr>
 		<tr>
 			<td><b>Carte <span class="label label-primary">annuelle</span></b><br><i>1 cours de 1h par semaine</i></td>
@@ -25,19 +25,19 @@
 			<td><b>Carte <span class="label label-primary">20h</span></b><br><i>20 cours de 1h</span></i></td>
 			<td><b><span class="label label-warning">230,00 €</span></b><br><span class="label label-info">5,75 € / h</span></td>
 			<td><b><span class="label label-warning">125,00 €</span></b><br><span class="label label-info">6,25 € / h</span></td>
-			<td>-</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td><b>Carte <span class="label label-primary">10h</span></b><br><i>10 cours de 1h</i></td>
 			<td><b><span class="label label-danger">130,00 €</span></b><br><span class="label label-info">6,50 € / h</span></td>
 			<td><b><span class="label label-danger">70,00 €</span></b><br><span class="label label-info">7,00 € / h</span></td>
-			<td>-</td>
+			<td></td>
 		</tr>
 		<tr>
-			<td><b>Carte complémentaire <span class="label label-primary">10h</span> *</b></td>
+			<td><b>Carte <span class="label label-primary">10h</span></b> complémentaire *<br><i>10 cours de 1h</i></td>
 			<td><b><span class="label label-danger">100,00 €</span></b><br><span class="label label-info">5,00 € / h</span></td>
 			<td><b><span class="label label-danger">50,00 €</span></b><br><span class="label label-info">5,00 € / h</span></td>
-			<td>-</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td><b>Cours de <span class="label label-primary">1h</span></b></td>
@@ -48,7 +48,7 @@
 	</table>
 	
 	<p>
-		<i>* La carte complémentaire donne accès aux cours supplémentaires de votre choix, inférieurs ou égaux à votre niveau exclusivement.</i>
+		<i>* La carte complémentaire donne accès aux cours supplémentaires de votre choix, exclusivement inférieurs ou égaux à votre niveau.</i>
 	</p>
 
   </div>
@@ -128,7 +128,7 @@
 </div>
 
 <p class="well">
-	Pour toute information complémentaire, contactez <a href="contact.php">Mme Véronique Lhermitte</a>
+	Pour toute information complémentaire, contactez <a href="contact.php">Véronique Lhermitte</a>
 </p>
 
 <?php include_once('php/end.php'); ?>

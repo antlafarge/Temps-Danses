@@ -3,7 +3,7 @@
 <h2>Annonces</h2>
 
 <p class="well">
-	Pour déposer une annonce, se renseigner sur une annonce, ou toute information complémentaire, contactez <a href="contact.php">Mme Véronique Lhermitte</a>
+	Pour déposer une annonce, se renseigner sur une annonce, ou toute information complémentaire, contactez <a href="contact.php">Véronique Lhermitte</a>
 </p>
 
 <div class="row">
@@ -22,12 +22,12 @@
 						</p>
 						<table class="table">
 							<tr>
-								<th>Niveau</th>
-								<td>3ème année</td>
-							</tr>
-							<tr>
 								<th>Age</th>
 								<td>29 ans</td>
+							</tr>
+							<tr>
+								<th>Niveau</th>
+								<td>3ème année</td>
 							</tr>
 							<tr>
 								<th>Taille</th>
@@ -50,12 +50,12 @@
 						</p>
 						<table class="table">
 							<tr>
-								<th>Niveau</th>
-								<td>Débutant</td>
-							</tr>
-							<tr>
 								<th>Age</th>
 								<td>40 ans</td>
+							</tr>
+							<tr>
+								<th>Niveau</th>
+								<td>Débutant</td>
 							</tr>
 							<tr>
 								<th>Taille</th>
@@ -87,12 +87,12 @@
 						</p>
 						<table class="table">
 							<tr>
-								<th>Niveau</th>
-								<td>Débutant</td>
-							</tr>
-							<tr>
 								<th>Age</th>
 								<td>38 ans</td>
+							</tr>
+							<tr>
+								<th>Niveau</th>
+								<td>Débutant</td>
 							</tr>
 							<tr>
 								<th>Taille</th>
@@ -115,12 +115,12 @@
 						</p>
 						<table class="table">
 							<tr>
-								<th>Niveau</th>
-								<td>Débutant</td>
-							</tr>
-							<tr>
 								<th>Age</th>
 								<td>40 ans</td>
+							</tr>
+							<tr>
+								<th>Niveau</th>
+								<td>Débutant</td>
 							</tr>
 							<tr>
 								<th>Taille</th>
