@@ -9,7 +9,7 @@
 	<div class="panel-body">
 		à la salle de la <span class="label label-primary">Maison pour tous</span> de <span class="label label-primary">Fressenneville</span> <em>(18 rue Charles Vérecque)</em>
 		<br>
-		événement réservé aux <span class="label label-danger">Elèves de l'école uniquement</span>
+		événement <span class="label label-danger">réservé aux Elèves</span> de l'école uniquement
 		<br>
 		sur le principe d'une <span class="label label-info">auberge espagnole</span> donc chacun amène ce qu'il veut <i>(tartes, gateaux, sucreries, boissons...)</i>
 	</div>

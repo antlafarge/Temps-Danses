@@ -48,6 +48,8 @@ include_once('php/ftp.php');
 
   <body>
 
+  <?php include_once("php/analyticstracking.php") ?>
+
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
