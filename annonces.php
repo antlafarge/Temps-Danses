@@ -31,11 +31,11 @@
 							</tr>
 							<tr>
 								<th>Taille</th>
-								<td>-</td>
+								<td>1,70 m</td>
 							</tr>
 							<tr>
 								<th>Localisation</th>
-								<td>-</td>
+								<td>Fressenville</td>
 							</tr>
 						</table>
 					</div>
@@ -59,11 +59,11 @@
 							</tr>
 							<tr>
 								<th>Taille</th>
-								<td>-</td>
+								<td>1,70 m</td>
 							</tr>
 							<tr>
 								<th>Localisation</th>
-								<td>-</td>
+								<td>Fressenville</td>
 							</tr>
 						</table>
 					</div>

@@ -109,7 +109,7 @@
 			<tr>
 				<th>Lundi</th>
 				<td></td>
-				<td>19h00 à 20h00<br>22h00 à 23h00</td>
+				<td>19h00 à 20h00<br>21h30 à 23h30</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -128,11 +128,11 @@
 				<th>Jeudi</th>
 				<td>14h00 à 18h00</td>
 				<td></td>
-				<td></td>
+				<td>21h30 à 23h30</td>
 			</tr>
 			<tr>
 				<th>Vendredi</th>
-				<td>18h00 à 20h30<br>21h30 à 23h30</td>
+				<td>17h00 à 20h30<br>21h30 à 23h30</td>
 				<td></td>
 				<td></td>
 			</tr>
