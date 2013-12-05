@@ -35,7 +35,7 @@
 							</tr>
 							<tr>
 								<th>Localisation</th>
-								<td>Fressenville</td>
+								<td>Fressenneville</td>
 							</tr>
 						</table>
 					</div>
@@ -63,7 +63,7 @@
 							</tr>
 							<tr>
 								<th>Localisation</th>
-								<td>Fressenville</td>
+								<td>Fressenneville</td>
 							</tr>
 						</table>
 					</div>
