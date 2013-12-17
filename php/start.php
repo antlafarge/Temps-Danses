@@ -53,6 +53,12 @@ include_once('php/ftp.php');
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
         <a class="navbar-brand" href=".">Temps Danses</a>
       </div>
 
@@ -81,34 +87,15 @@ include_once('php/ftp.php');
         		?>
         	</ul>
       	  </li>
-		  <li class="dropdown">
-        	<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-link"></span> Liens <b class="caret"></b></a>
-        	<ul class="dropdown-menu">
-				<li><a href="http://www.ffdanse.fr/">Fédération française de danse (FFD)</a></li>
-        	</ul>
+		      <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-link"></span> Liens <b class="caret"></b></a>
+          	<ul class="dropdown-menu">
+              <li><a href="http://www.fededanse.fr/">Fédération des sports de danse de France (FSD)</a></li>
+  				    <li><a href="http://www.ffdanse.fr/">Fédération française de danse (FFD)</a></li>
+          	</ul>
       	  </li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </nav>
-
-    <!--<div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href=".">Antoine Lafarge dev book</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li <?php treatActivePage('home', $current_page); ?>><a href="home.php">Home</a></li>
-              <li <?php treatActivePage('experiences', $current_page); ?>><a href="experiences.php">Experiences</a></li>
-              <li <?php treatActivePage('projects', $current_page); ?>><a href="projects.php">Projects</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>-->
 
   <div class="container">
