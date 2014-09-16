@@ -10,7 +10,7 @@
 		<p>
 			<strong>E-mail</strong> <a href="">temps.danses.80@gmail.com</a>
 			<br>
-			<strong>Téléphone</strong> <span class="label label-default">06.17.92.03.25</span>
+			<strong>Téléphone</strong> <span class="label label-success">06 17 92 03 25</span>
 		</p>
   </div>
 </div>

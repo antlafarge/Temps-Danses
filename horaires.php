@@ -26,7 +26,7 @@
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Cours collectifs de Septembre 2013 à Juin 2014</h3>
+    <h3 class="panel-title">Cours collectifs de Septembre 2014 à Juin 2015</h3>
   </div>
   <div class="panel-body">
 		<table class="table table-bordered well">
@@ -39,53 +39,31 @@
 			</tr>
 			<tr>
 				<th>Débutants</th>
-				<td>Mardi<br>20h30 à 21h30</td>
 				<td></td>
+				<td>Lundi<br>19h30 à 20h30</td>
 				<td></td>
-				<td>Jeudi<br>20h à 21h</td>
+				<td>Jeudi<br>19h30 à 20h30</td>
 			</tr>
 			<tr>
 				<th>1ère année</th>
+				<td>Mardi<br>20h30 à 21h30</td>
 				<td></td>
 				<td></td>
 				<td></td>
-				<td>Jeudi<br>21h à 22h</td>
 			</tr>
 			<tr>
-				<th>2ème année</th>
+				<th>Initiés</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td>Jeudi<br>20h30 à 21h30</td>
+			</tr>
+			<tr>
+				<th>Confirmés</th>
 				<td>Vendredi<br>20h30 à 21h30</td>
 				<td></td>
 				<td>Mercredi<br>20h30 à 21h30</td>
 				<td></td>
-			</tr>
-			<tr>
-				<th>3ème année</th>
-				<td></td>
-				<td>Lundi<br>20h15 à 21h15</td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-				<th>Poussins 6-9ans</th>
-				<td>Mercredi<br>17h à 18h</td>
-				<td></td>
-				<td></td>
-				<td>Jeudi<br>17h à 18h</td>
-			</tr>
-			<tr>
-				<th>Benjamins / Minimes 10-13ans</th>
-				<td>Mercredi<br>18h à 19h</td>
-				<td></td>
-				<td></td>
-				<td>Jeudi<br>18h à 19h</td>
-			</tr>
-			
-			<tr>
-				<th>Cadets / Juniors 14-18ans</th>
-				<td>Mercredi<br>19h à 20h</td>
-				<td></td>
-				<td></td>
-				<td>Jeudi<br>19h à 20h</td>
 			</tr>
 		</table>
 		<p>
