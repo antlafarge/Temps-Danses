@@ -16,33 +16,33 @@
 			<th>Adolescents Etudiants <span class="badge">-25 ans</span></th>
 		</tr>
 		<tr>
-			<td><b>Carte <span class="label label-primary">annuelle</span></b><br><i>1 cours de 1h par semaine</i></td>
-			<td><b><span class="label label-success">340,00 €</span></b><br><span class="label label-info">5,00 € / h</span></td>
-			<td><b><span class="label label-success">180,00 €</span></b><br><span class="label label-info">5,29 €/h</span></td>
-			<td><b><span class="label label-success">100,00 €</span></b><br><span class="label label-info">3,53 € / h</span></td>
+			<td><b>Carte <span class="label label-primary">annuelle</span></b><br><i>30 cours de 1h minimum (1 par semaine)</i></td>
+			<td><b><span class="label label-success">360,00 €</span></b><br><span class="label label-info">12,00 € / h</span></td>
+			<td><b><span class="label label-success">210,00 €</span></b><br><span class="label label-info">7,00 €/h</span></td>
+			<td><b><span class="label label-success">110,00 €</span></b><br><span class="label label-info">3,66 € / h</span></td>
 		</tr>
 		<tr>
 			<td><b>Carte <span class="label label-primary">20h</span></b><br><i>20 cours de 1h</span></i></td>
-			<td><b><span class="label label-warning">230,00 €</span></b><br><span class="label label-info">5,75 € / h</span></td>
-			<td><b><span class="label label-warning">125,00 €</span></b><br><span class="label label-info">6,25 € / h</span></td>
+			<td><b><span class="label label-warning">280,00 €</span></b><br><span class="label label-info">14,00 € / h</span></td>
+			<td><b><span class="label label-warning">160,00 €</span></b><br><span class="label label-info">8,00 € / h</span></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td><b>Carte <span class="label label-primary">10h</span></b><br><i>10 cours de 1h</i></td>
-			<td><b><span class="label label-danger">130,00 €</span></b><br><span class="label label-info">6,50 € / h</span></td>
-			<td><b><span class="label label-danger">70,00 €</span></b><br><span class="label label-info">7,00 € / h</span></td>
+			<td><b><span class="label label-danger">160,00 €</span></b><br><span class="label label-info">16,00 € / h</span></td>
+			<td><b><span class="label label-danger">90,00 €</span></b><br><span class="label label-info">9,00 € / h</span></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td><b>Carte <span class="label label-primary">10h</span></b> complémentaire *<br><i>10 cours de 1h</i></td>
-			<td><b><span class="label label-danger">100,00 €</span></b><br><span class="label label-info">5,00 € / h</span></td>
-			<td><b><span class="label label-danger">50,00 €</span></b><br><span class="label label-info">5,00 € / h</span></td>
+			<td><b><span class="label label-danger">120,00 €</span></b><br><span class="label label-info">12,00 € / h</span></td>
+			<td><b><span class="label label-danger">70,00 €</span></b><br><span class="label label-info">7,00 € / h</span></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td><b>Cours de <span class="label label-primary">1h</span></b></td>
-			<td><b><span class="label label-info">14,00 €</span></b></td>
-			<td><b><span class="label label-info">7,50 €</span></b></td>
+			<td><b><span class="label label-info">15,00 €</span></b></td>
+			<td><b><span class="label label-info">10,00 €</span></b></td>
 			<td><b><span class="label label-info">5,00 €</span></b></td>
 		</tr>
 	</table>
@@ -67,11 +67,15 @@
 		</tr>
 		<tr>
 			<td><b>Carte <span class="label label-primary">10h</span></b><br><i>10 cours de 1h</i></td>
-			<td><b><span class="label label-danger">280,00 €</span></b><br><span class="label label-info">28,00 € / h</span></td>
+			<td><b><span class="label label-warning">320,00 €</span></b><br><span class="label label-info">32,00 € / h</span></td>
+		</tr>
+		<tr>
+			<td><b>Carte <span class="label label-primary">5h</span></b><br><i>5 cours de 1h</i></td>
+			<td><b><span class="label label-danger">170,00 €</span></b><br><span class="label label-info">32,00 € / h</span></td>
 		</tr>
 		<tr>
 			<td><b>Cours de <span class="label label-primary">1h</span></b></td>
-			<td><b><span class="label label-info">30,00 €</span></b></td>
+			<td><b><span class="label label-info">36,00 €</span></b></td>
 		</tr>
 	</table>
 	
@@ -85,7 +89,7 @@
   <div class="panel-body">
 		
 		<p>
-			<strong>Droits d'entrée:</strong> <span class="label label-success">15,00 €</span> annuel par personne.
+			<strong>Droits d'entrée:</strong> <span class="label label-success">18,00 €</span> annuel par personne.
 		</p>
 		
 		<p>
