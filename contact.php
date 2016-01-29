@@ -4,7 +4,7 @@
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Véronique Lhermitte <small>Professeur de danse</small></h3>
+    <h3 class="panel-title">Véronique Salé <small>Professeur de danse</small></h3>
   </div>
   <div class="panel-body">
 		<p>

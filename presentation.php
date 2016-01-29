@@ -65,7 +65,7 @@
 </div>
 
 <p class="well">
-	Pour toute information complémentaire, contactez <a href="contact.php">Véronique Lhermitte</a>
+	Pour toute information complémentaire, contactez <a href="contact.php">Véronique Salé</a>
 </p>
 
 <?php include_once('php/end.php'); ?>

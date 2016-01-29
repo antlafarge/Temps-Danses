@@ -3,7 +3,7 @@
 <h2>Annonces</h2>
 
 <p class="well">
-	Pour déposer une annonce, se renseigner sur une annonce, ou toute information complémentaire, contactez <a href="contact.php">Véronique Lhermitte</a>
+	Pour déposer une annonce, se renseigner sur une annonce, ou toute information complémentaire, contactez <a href="contact.php">Véronique Salé</a>
 </p>
 
 <div class="row">

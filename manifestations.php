@@ -38,7 +38,7 @@
 	<div class="panel-body">
 		A la salle de la <span class="label label-primary">Maison pour tous</span> de <span class="label label-primary">Fressenneville</span> <em>(18 rue Charles Vérecque)</em>
 		<br>
-		<span class="label label-warning">Sur réservation uniquement</span> auprès de <a href="contacts.php">Véronique Lhermitte</a>
+		<span class="label label-warning">Sur réservation uniquement</span> auprès de <a href="contacts.php">Véronique Salé</a>
 		<br>
 		<span class="label label-success">Les personnes extérieures à l'école sont les bienvenues</span>
 		<br>
